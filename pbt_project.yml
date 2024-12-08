@@ -1,0 +1,57 @@
+name: azzie.crist
+description: value-added
+version: 0.59.677
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: azziecrist
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:44:11'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:44:11'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:44:11.912528Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '415038170'
+  createdAt: '2024-12-08T23:44:11.912528Z'
+  type: plibMaven
+projectDependencies:
+  '226':
+    projectUID: 226
+    projectName: neville.buckridge
+    repositoryPath: gitUri=http://gitserver:3000/dev_yAElAc2r_team_346/dev_yAElAc2r_project_226.git&subPath=
+    version: neville.buckridge/0.03.849
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 23:44:10'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
