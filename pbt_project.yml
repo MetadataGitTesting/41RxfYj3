@@ -6,7 +6,7 @@ language: scala
 buildSystem: ''
 buildSystemDetails:
   artefactID: azziecrist
-  parentArtefactID: ''
+  parentArtefactID: mxhtp7wby1255k4hv8vgliwcomteam
   buildSystem: maven
   author: null
   createdAt: '2024-12-08 23:44:11'
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
@@ -48,10 +48,10 @@ projectDependencies:
     projectUID: 226
     projectName: neville.buckridge
     repositoryPath: gitUri=http://gitserver:3000/dev_yAElAc2r_team_346/dev_yAElAc2r_project_226.git&subPath=
-    version: neville.buckridge/0.03.849
+    version: neville.buckridge/9.6.947
     isDefault: false
     author: null
-    createdAt: '2024-12-08 23:44:10'
+    createdAt: '2024-12-08 23:44:36'
 flags:
   shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
